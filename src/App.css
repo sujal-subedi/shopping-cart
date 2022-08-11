@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.container {
+  margin-top: 20px;
+  text-align: center;
+}
+.productContainer {
+  display: flex;
+  padding: 20px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.products {
+  margin: 10px;
+  padding: 10px;
+  border-style: solid;
+  border-color: white;
+  border-width: thick;
+}
